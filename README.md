@@ -5,5 +5,7 @@ Demonstration of the Collatz Conjecture
 each number you get. The Collatz Conjecture states no matter which number you pick this process will reach 1 eventually, meaning 
 that there are no sequences that go to infinity. As the name suggests, this is only a conjecture therefore hasn't been proven yet.
 
-  The code just puts out the integers in a given range. It then applies the process to every one of them and displays the results 
-simultaneously. 
+  The code just puts out the integers in a given range. It then applies the process to every one of them and displays the results
+  simultaneously. 
+  
+  You can adjust the range of values by playing with row and col variables.
