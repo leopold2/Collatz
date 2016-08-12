@@ -1,5 +1,4 @@
 from tkinter import *
-from time import *
 
 root=Tk()
 row=40
