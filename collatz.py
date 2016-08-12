@@ -3,7 +3,7 @@ from tkinter import *
 root=Tk()
 row=40
 col=20
-numbers=[i+1 for i in range(row*col)]
+numbers=[i for i in range(1,row*col)]
 st=""
 
 def toString(array):
